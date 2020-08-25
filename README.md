@@ -1,0 +1,2 @@
+# MyShoppy
+MyShoppy Android App
